@@ -1,0 +1,355 @@
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:493: SourceChangeWarning: source code of class 'torch.nn.modules.linear.Linear' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:493: SourceChangeWarning: source code of class 'torch.nn.modules.activation.Softplus' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:493: SourceChangeWarning: source code of class 'torch.nn.modules.activation.Sigmoid' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/ustc-1/.local/lib/python3.5/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.preprocessing.label module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.preprocessing. Anything that cannot be imported from sklearn.preprocessing is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/ustc-1/.local/lib/python3.5/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator LabelBinarizer from version 0.21.3 when using version 0.22.2.post1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+Epoch [1/250] Loss: 0.0000 A: 0.0216 B: 3554.8723
+Epoch [2/250] Loss: 0.0000 A: 0.0170 B: 41009.0703
+Epoch [3/250] Loss: 0.0000 A: 0.0181 B: 104384.9609
+Epoch [4/250] Loss: 0.0000 A: 17.5756 B: 979877.1875
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:493: SourceChangeWarning: source code of class 'torch.nn.modules.linear.Linear' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:493: SourceChangeWarning: source code of class 'torch.nn.modules.activation.Softplus' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:493: SourceChangeWarning: source code of class 'torch.nn.modules.activation.Sigmoid' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/ustc-1/.local/lib/python3.5/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.preprocessing.label module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.preprocessing. Anything that cannot be imported from sklearn.preprocessing is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/ustc-1/.local/lib/python3.5/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator LabelBinarizer from version 0.21.3 when using version 0.22.2.post1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+Epoch [1/250] Loss: 0.0168 A: 0.0168 B: 0.0046
+Epoch [2/250] Loss: 0.0129 A: 0.0129 B: 0.0025
+Epoch [3/250] Loss: 0.0129 A: 0.0129 B: 0.0014
+Epoch [4/250] Loss: 0.0115 A: 0.0115 B: 0.0017
+Epoch [5/250] Loss: 0.0133 A: 0.0133 B: 0.0011
+Epoch [6/250] Loss: 0.0108 A: 0.0108 B: 0.0004
+Epoch [7/250] Loss: 0.0138 A: 0.0138 B: 0.0007
+Epoch [8/250] Loss: 0.0170 A: 0.0170 B: 0.0003
+Epoch [9/250] Loss: 0.0138 A: 0.0138 B: 0.0015
+Epoch [10/250] Loss: 0.0144 A: 0.0144 B: 0.0038
+Epoch [11/250] Loss: 0.0120 A: 0.0120 B: 0.0055
+Epoch [12/250] Loss: 0.0101 A: 0.0101 B: 0.0008
+Epoch [13/250] Loss: 0.0159 A: 0.0159 B: 0.0003
+Epoch [14/250] Loss: 0.0208 A: 0.0208 B: 0.0004
+Epoch [15/250] Loss: 0.0194 A: 0.0194 B: 0.0027
+Epoch [16/250] Loss: 0.0139 A: 0.0139 B: 0.0011
+Epoch [17/250] Loss: 0.0117 A: 0.0117 B: 0.0025
+Epoch [18/250] Loss: 0.0179 A: 0.0179 B: 0.0007
+Epoch [19/250] Loss: 0.0125 A: 0.0125 B: 0.0012
+Epoch [20/250] Loss: 0.0150 A: 0.0150 B: 0.0007
+Epoch [21/250] Loss: 0.0127 A: 0.0127 B: 0.0067
+Epoch [22/250] Loss: 0.0133 A: 0.0133 B: 0.0018
+Epoch [23/250] Loss: 0.0138 A: 0.0138 B: 0.0043
+Epoch [24/250] Loss: 0.0118 A: 0.0118 B: 0.0013
+Epoch [25/250] Loss: 0.0106 A: 0.0106 B: 0.0007
+Epoch [26/250] Loss: 0.0127 A: 0.0127 B: 0.0003
+Epoch [27/250] Loss: 0.0107 A: 0.0107 B: 0.0004
+Epoch [28/250] Loss: 0.0145 A: 0.0145 B: 0.0009
+Epoch [29/250] Loss: 0.0123 A: 0.0123 B: 0.0005
+Epoch [30/250] Loss: 0.0166 A: 0.0166 B: 0.0004
+Epoch [31/250] Loss: 0.0121 A: 0.0121 B: 0.0004
+Epoch [32/250] Loss: 0.0139 A: 0.0139 B: 0.0003
+Epoch [33/250] Loss: 0.0130 A: 0.0130 B: 0.0019
+Epoch [34/250] Loss: 0.0117 A: 0.0117 B: 0.0010
+Epoch [35/250] Loss: 0.0163 A: 0.0163 B: 0.0009
+Epoch [36/250] Loss: 0.0109 A: 0.0109 B: 0.0012
+Epoch [37/250] Loss: 0.0111 A: 0.0111 B: 0.0053
+Epoch [38/250] Loss: 0.0145 A: 0.0145 B: 0.0015
+Epoch [39/250] Loss: 0.0119 A: 0.0119 B: 0.0002
+Epoch [40/250] Loss: 0.0122 A: 0.0122 B: 0.0009
+Epoch [41/250] Loss: 0.0141 A: 0.0141 B: 0.0003
+Epoch [42/250] Loss: 0.0137 A: 0.0137 B: 0.0001
+Epoch [43/250] Loss: 0.0082 A: 0.0082 B: 0.0003
+Epoch [44/250] Loss: 0.0121 A: 0.0121 B: 0.0026
+Epoch [45/250] Loss: 0.0136 A: 0.0136 B: 0.0004
+Epoch [46/250] Loss: 0.0114 A: 0.0114 B: 0.0015
+Epoch [47/250] Loss: 0.0123 A: 0.0123 B: 0.0003
+Epoch [48/250] Loss: 0.0092 A: 0.0092 B: 0.0009
+Epoch [49/250] Loss: 0.0138 A: 0.0138 B: 0.0011
+Epoch [50/250] Loss: 0.0133 A: 0.0133 B: 0.0004
+Epoch [51/250] Loss: 0.0123 A: 0.0123 B: 0.0002
+Epoch [52/250] Loss: 0.0105 A: 0.0105 B: 0.0006
+Epoch [53/250] Loss: 0.0096 A: 0.0096 B: 0.0002
+Epoch [54/250] Loss: 0.0124 A: 0.0124 B: 0.0005
+Epoch [55/250] Loss: 0.0155 A: 0.0155 B: 0.0004
+Epoch [56/250] Loss: 0.0110 A: 0.0110 B: 0.0002
+Epoch [57/250] Loss: 0.0136 A: 0.0136 B: 0.0001
+Epoch [58/250] Loss: 0.0114 A: 0.0114 B: 0.0002
+Epoch [59/250] Loss: 0.0112 A: 0.0112 B: 0.0001
+Epoch [60/250] Loss: 0.0138 A: 0.0138 B: 0.0002
+Epoch [61/250] Loss: 0.0136 A: 0.0136 B: 0.0004
+Epoch [62/250] Loss: 0.0138 A: 0.0138 B: 0.0003
+Epoch [63/250] Loss: 0.0131 A: 0.0131 B: 0.0002
+Epoch [64/250] Loss: 0.0108 A: 0.0108 B: 0.0003
+Epoch [65/250] Loss: 0.0126 A: 0.0126 B: 0.0012
+Epoch [66/250] Loss: 0.0093 A: 0.0093 B: 0.0002
+Epoch [67/250] Loss: 0.0138 A: 0.0138 B: 0.0005
+Epoch [68/250] Loss: 0.0108 A: 0.0108 B: 0.0002
+Epoch [69/250] Loss: 0.0109 A: 0.0109 B: 0.0001
+Epoch [70/250] Loss: 0.0124 A: 0.0124 B: 0.0005
+Epoch [71/250] Loss: 0.0158 A: 0.0158 B: 0.0003
+Epoch [72/250] Loss: 0.0142 A: 0.0142 B: 0.0002
+Epoch [73/250] Loss: 0.0112 A: 0.0112 B: 0.0001
+Epoch [74/250] Loss: 0.0113 A: 0.0113 B: 0.0003
+Epoch [75/250] Loss: 0.0115 A: 0.0115 B: 0.0004
+Epoch [76/250] Loss: 0.0135 A: 0.0135 B: 0.0002
+Epoch [77/250] Loss: 0.0126 A: 0.0126 B: 0.0001
+Epoch [78/250] Loss: 0.0105 A: 0.0105 B: 0.0002
+Epoch [79/250] Loss: 0.0116 A: 0.0116 B: 0.0001
+Epoch [80/250] Loss: 0.0113 A: 0.0113 B: 0.0001
+Epoch [81/250] Loss: 0.0120 A: 0.0120 B: 0.0003
+Epoch [82/250] Loss: 0.0099 A: 0.0099 B: 0.0002
+Epoch [83/250] Loss: 0.0114 A: 0.0114 B: 0.0002
+Epoch [84/250] Loss: 0.0105 A: 0.0105 B: 0.0006
+Epoch [85/250] Loss: 0.0183 A: 0.0183 B: 0.0002
+Epoch [86/250] Loss: 0.0104 A: 0.0104 B: 0.0001
+Epoch [87/250] Loss: 0.0147 A: 0.0147 B: 0.0006
+Epoch [88/250] Loss: 0.0099 A: 0.0099 B: 0.0001
+Epoch [89/250] Loss: 0.0171 A: 0.0171 B: 0.0003
+Epoch [90/250] Loss: 0.0122 A: 0.0122 B: 0.0004
+Epoch [91/250] Loss: 0.0138 A: 0.0138 B: 0.0001
+Epoch [92/250] Loss: 0.0145 A: 0.0145 B: 0.0001
+Epoch [93/250] Loss: 0.0110 A: 0.0110 B: 0.0005
+Epoch [94/250] Loss: 0.0126 A: 0.0126 B: 0.0003
+Epoch [95/250] Loss: 0.0143 A: 0.0143 B: 0.0003
+Epoch [96/250] Loss: 0.0125 A: 0.0125 B: 0.0003
+Epoch [97/250] Loss: 0.0140 A: 0.0140 B: 0.0003
+Epoch [98/250] Loss: 0.0137 A: 0.0137 B: 0.0009
+Epoch [99/250] Loss: 0.0118 A: 0.0118 B: 0.0005
+Epoch [100/250] Loss: 0.0129 A: 0.0129 B: 0.0038
+Epoch [101/250] Loss: 0.0114 A: 0.0114 B: 0.0005
+Epoch [102/250] Loss: 0.0168 A: 0.0168 B: 0.0003
+Epoch [103/250] Loss: 0.0119 A: 0.0119 B: 0.0004
+Epoch [104/250] Loss: 0.0123 A: 0.0123 B: 0.0007
+Epoch [105/250] Loss: 0.0136 A: 0.0136 B: 0.0007
+Epoch [106/250] Loss: 0.0120 A: 0.0120 B: 0.0003
+Epoch [107/250] Loss: 0.0110 A: 0.0110 B: 0.0001
+Epoch [108/250] Loss: 0.0097 A: 0.0097 B: 0.0002
+Epoch [109/250] Loss: 0.0113 A: 0.0113 B: 0.0001
+Epoch [110/250] Loss: 0.0120 A: 0.0120 B: 0.0012
+Epoch [111/250] Loss: 0.0125 A: 0.0125 B: 0.0002
+Epoch [112/250] Loss: 0.0124 A: 0.0124 B: 0.0003
+Epoch [113/250] Loss: 0.0116 A: 0.0116 B: 0.0002
+Epoch [114/250] Loss: 0.0137 A: 0.0137 B: 0.0002
+Epoch [115/250] Loss: 0.0125 A: 0.0125 B: 0.0002
+Epoch [116/250] Loss: 0.0135 A: 0.0135 B: 0.0001
+Epoch [117/250] Loss: 0.0130 A: 0.0130 B: 0.0002
+Epoch [118/250] Loss: 0.0105 A: 0.0105 B: 0.0004
+Epoch [119/250] Loss: 0.0132 A: 0.0132 B: 0.0001
+Epoch [120/250] Loss: 0.0130 A: 0.0130 B: 0.0001
+Epoch [121/250] Loss: 0.0106 A: 0.0106 B: 0.0002
+Epoch [122/250] Loss: 0.0133 A: 0.0133 B: 0.0002
+Epoch [123/250] Loss: 0.0110 A: 0.0110 B: 0.0001
+Epoch [124/250] Loss: 0.0133 A: 0.0133 B: 0.0005
+Epoch [125/250] Loss: 0.0161 A: 0.0161 B: 0.0004
+Epoch [126/250] Loss: 0.0116 A: 0.0116 B: 0.0003
+Epoch [127/250] Loss: 0.0139 A: 0.0139 B: 0.0002
+Epoch [128/250] Loss: 0.0134 A: 0.0134 B: 0.0003
+Epoch [129/250] Loss: 0.0128 A: 0.0128 B: 0.0007
+Epoch [130/250] Loss: 0.0121 A: 0.0121 B: 0.0003
+Epoch [131/250] Loss: 0.0158 A: 0.0158 B: 0.0002
+Epoch [132/250] Loss: 0.0109 A: 0.0109 B: 0.0002
+Epoch [133/250] Loss: 0.0129 A: 0.0129 B: 0.0001
+Epoch [134/250] Loss: 0.0141 A: 0.0141 B: 0.0003
+Epoch [135/250] Loss: 0.0139 A: 0.0139 B: 0.0011
+Epoch [136/250] Loss: 0.0115 A: 0.0115 B: 0.0006
+Epoch [137/250] Loss: 0.0132 A: 0.0132 B: 0.0005
+Epoch [138/250] Loss: 0.0130 A: 0.0130 B: 0.0003
+Epoch [139/250] Loss: 0.0137 A: 0.0137 B: 0.0003
+Epoch [140/250] Loss: 0.0126 A: 0.0126 B: 0.0001
+Epoch [141/250] Loss: 0.0091 A: 0.0091 B: 0.0006
+Epoch [142/250] Loss: 0.0126 A: 0.0126 B: 0.0008
+Epoch [143/250] Loss: 0.0145 A: 0.0145 B: 0.0019
+Epoch [144/250] Loss: 0.0134 A: 0.0134 B: 0.0003
+Epoch [145/250] Loss: 0.0123 A: 0.0123 B: 0.0003
+Epoch [146/250] Loss: 0.0176 A: 0.0176 B: 0.0001
+Epoch [147/250] Loss: 0.0131 A: 0.0131 B: 0.0003
+Epoch [148/250] Loss: 0.0103 A: 0.0103 B: 0.0003
+Epoch [149/250] Loss: 0.0099 A: 0.0099 B: 0.0002
+Epoch [150/250] Loss: 0.0116 A: 0.0116 B: 0.0004
+Epoch [151/250] Loss: 0.0088 A: 0.0088 B: 0.0005
+Epoch [152/250] Loss: 0.0127 A: 0.0127 B: 0.0003
+Epoch [153/250] Loss: 0.0109 A: 0.0109 B: 0.0003
+Epoch [154/250] Loss: 0.0108 A: 0.0108 B: 0.0008
+Epoch [155/250] Loss: 0.0107 A: 0.0107 B: 0.0002
+Epoch [156/250] Loss: 0.0162 A: 0.0162 B: 0.0002
+Epoch [157/250] Loss: 0.0126 A: 0.0126 B: 0.0002
+Epoch [158/250] Loss: 0.0150 A: 0.0150 B: 0.0003
+Epoch [159/250] Loss: 0.0133 A: 0.0133 B: 0.0002
+Epoch [160/250] Loss: 0.0143 A: 0.0143 B: 0.0002
+Epoch [161/250] Loss: 0.0124 A: 0.0124 B: 0.0005
+Epoch [162/250] Loss: 0.0128 A: 0.0128 B: 0.0001
+Epoch [163/250] Loss: 0.0135 A: 0.0135 B: 0.0002
+Epoch [164/250] Loss: 0.0134 A: 0.0134 B: 0.0004
+Epoch [165/250] Loss: 0.0129 A: 0.0129 B: 0.0004
+Epoch [166/250] Loss: 0.0159 A: 0.0159 B: 0.0003
+Epoch [167/250] Loss: 0.0102 A: 0.0102 B: 0.0007
+Epoch [168/250] Loss: 0.0126 A: 0.0126 B: 0.0003
+Epoch [169/250] Loss: 0.0105 A: 0.0105 B: 0.0002
+Epoch [170/250] Loss: 0.0123 A: 0.0123 B: 0.0006
+Epoch [171/250] Loss: 0.0097 A: 0.0097 B: 0.0003
+Epoch [172/250] Loss: 0.0083 A: 0.0083 B: 0.0003
+Epoch [173/250] Loss: 0.0122 A: 0.0122 B: 0.0001
+Epoch [174/250] Loss: 0.0120 A: 0.0120 B: 0.0002
+Epoch [175/250] Loss: 0.0125 A: 0.0125 B: 0.0002
+Epoch [176/250] Loss: 0.0145 A: 0.0145 B: 0.0003
+Epoch [177/250] Loss: 0.0114 A: 0.0114 B: 0.0003
+Epoch [178/250] Loss: 0.0129 A: 0.0129 B: 0.0003
+Epoch [179/250] Loss: 0.0128 A: 0.0128 B: 0.0008
+Epoch [180/250] Loss: 0.0167 A: 0.0167 B: 0.0002
+Epoch [181/250] Loss: 0.0094 A: 0.0094 B: 0.0002
+Epoch [182/250] Loss: 0.0132 A: 0.0132 B: 0.0007
+Epoch [183/250] Loss: 0.0144 A: 0.0144 B: 0.0003
+Epoch [184/250] Loss: 0.0146 A: 0.0146 B: 0.0007
+Epoch [185/250] Loss: 0.0133 A: 0.0133 B: 0.0003
+Epoch [186/250] Loss: 0.0150 A: 0.0150 B: 0.0005
+Epoch [187/250] Loss: 0.0120 A: 0.0120 B: 0.0015
+Epoch [188/250] Loss: 0.0161 A: 0.0161 B: 0.0004
+Epoch [189/250] Loss: 0.0108 A: 0.0108 B: 0.0007
+Epoch [190/250] Loss: 0.0122 A: 0.0122 B: 0.0006
+Epoch [191/250] Loss: 0.0128 A: 0.0128 B: 0.0002
+Epoch [192/250] Loss: 0.0128 A: 0.0128 B: 0.0006
+Epoch [193/250] Loss: 0.0125 A: 0.0125 B: 0.0005
+Epoch [194/250] Loss: 0.0154 A: 0.0154 B: 0.0004
+Epoch [195/250] Loss: 0.0103 A: 0.0103 B: 0.0003
+Epoch [196/250] Loss: 0.0109 A: 0.0109 B: 0.0004
+Epoch [197/250] Loss: 0.0110 A: 0.0110 B: 0.0003
+Epoch [198/250] Loss: 0.0131 A: 0.0131 B: 0.0002
+Epoch [199/250] Loss: 0.0173 A: 0.0173 B: 0.0005
+Epoch [200/250] Loss: 0.0153 A: 0.0153 B: 0.0004
+Epoch [201/250] Loss: 0.0123 A: 0.0123 B: 0.0004
+Epoch [202/250] Loss: 0.0127 A: 0.0127 B: 0.0002
+Epoch [203/250] Loss: 0.0104 A: 0.0104 B: 0.0002
+Epoch [204/250] Loss: 0.0156 A: 0.0156 B: 0.0007
+Epoch [205/250] Loss: 0.0116 A: 0.0116 B: 0.0002
+Epoch [206/250] Loss: 0.0143 A: 0.0143 B: 0.0004
+Epoch [207/250] Loss: 0.0141 A: 0.0141 B: 0.0005
+Epoch [208/250] Loss: 0.0122 A: 0.0122 B: 0.0006
+Epoch [209/250] Loss: 0.0120 A: 0.0120 B: 0.0004
+Epoch [210/250] Loss: 0.0109 A: 0.0109 B: 0.0008
+Epoch [211/250] Loss: 0.0121 A: 0.0121 B: 0.0006
+Epoch [212/250] Loss: 0.0119 A: 0.0119 B: 0.0003
+Epoch [213/250] Loss: 0.0136 A: 0.0136 B: 0.0002
+Epoch [214/250] Loss: 0.0112 A: 0.0112 B: 0.0003
+Epoch [215/250] Loss: 0.0111 A: 0.0111 B: 0.0003
+Epoch [216/250] Loss: 0.0072 A: 0.0072 B: 0.0003
+Epoch [217/250] Loss: 0.0121 A: 0.0121 B: 0.0003
+Epoch [218/250] Loss: 0.0137 A: 0.0137 B: 0.0004
+Epoch [219/250] Loss: 0.0145 A: 0.0145 B: 0.0005
+Epoch [220/250] Loss: 0.0128 A: 0.0128 B: 0.0002
+Epoch [221/250] Loss: 0.0131 A: 0.0131 B: 0.0003
+Epoch [222/250] Loss: 0.0134 A: 0.0134 B: 0.0005
+Epoch [223/250] Loss: 0.0143 A: 0.0143 B: 0.0002
+Epoch [224/250] Loss: 0.0133 A: 0.0133 B: 0.0002
+Epoch [225/250] Loss: 0.0112 A: 0.0112 B: 0.0003
+Epoch [226/250] Loss: 0.0140 A: 0.0140 B: 0.0011
+Epoch [227/250] Loss: 0.0159 A: 0.0159 B: 0.0010
+Epoch [228/250] Loss: 0.0132 A: 0.0132 B: 0.0003
+Epoch [229/250] Loss: 0.0086 A: 0.0086 B: 0.0003
+Epoch [230/250] Loss: 0.0130 A: 0.0130 B: 0.0002
+Epoch [231/250] Loss: 0.0143 A: 0.0143 B: 0.0006
+Epoch [232/250] Loss: 0.0133 A: 0.0133 B: 0.0008
+Epoch [233/250] Loss: 0.0116 A: 0.0116 B: 0.0005
+Epoch [234/250] Loss: 0.0117 A: 0.0117 B: 0.0002
+Epoch [235/250] Loss: 0.0115 A: 0.0115 B: 0.0003
+Epoch [236/250] Loss: 0.0133 A: 0.0133 B: 0.0003
+Epoch [237/250] Loss: 0.0121 A: 0.0121 B: 0.0010
+Epoch [238/250] Loss: 0.0142 A: 0.0142 B: 0.0004
+Epoch [239/250] Loss: 0.0133 A: 0.0133 B: 0.0003
+Epoch [240/250] Loss: 0.0131 A: 0.0131 B: 0.0004
+Epoch [241/250] Loss: 0.0157 A: 0.0157 B: 0.0003
+Epoch [242/250] Loss: 0.0106 A: 0.0106 B: 0.0009
+Epoch [243/250] Loss: 0.0120 A: 0.0120 B: 0.0002
+Epoch [244/250] Loss: 0.0131 A: 0.0131 B: 0.0003
+Epoch [245/250] Loss: 0.0130 A: 0.0130 B: 0.0006
+Epoch [246/250] Loss: 0.0133 A: 0.0133 B: 0.0002
+Epoch [247/250] Loss: 0.0128 A: 0.0128 B: 0.0003
+Epoch [248/250] Loss: 0.0120 A: 0.0120 B: 0.0006
+Epoch [249/250] Loss: 0.0100 A: 0.0100 B: 0.0003
+Epoch [250/250] Loss: 0.0116 A: 0.0116 B: 0.0003
+training done
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type CVAE2. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Sequential. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Linear. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Softplus. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+Test Accuracy of the model on the XXXX test flows: 95.766121 %
+(500298, 4)
+[[351416      0     11   2220     14    250     19      1    555      0
+       0      0      0      0      0]
+ [     6   2339      1      2      0      0      0      0      0      0
+       0      0      0      0      0]
+ [    10      1    985      3      0      0      0      0      0      0
+       0      0      0      0      0]
+ [     6      0      0  69194      0      0      1      0      1      0
+       0      0      0      0      0]
+ [    20      0      0      0   1634      0      0      0      0      0
+       0      0      0      0      0]
+ [    63      0      0      0      0   1192      0      0      0      0
+       0      0      0      0      0]
+ [   130      0      3     10      0      0   1364      0      0      0
+       0      0      0      0      0]
+ [    51      0      0     15      0      0      3  47728      7      0
+       0      0      0      0      0]
+ [   971      0      0      0      0      0      0      0   3264      0
+       0      0      0      0      0]
+ [  6094      0      0   4176     20      0      0      1      2      0
+       0      0      0      0      0]
+ [    11      0      0      0      0      0      0      0      0      0
+       0      0      0      0      0]
+ [    30      0      0      0      1      0      5      0      0      0
+       0      0      0      0      0]
+ [  3363    491      0      2   1937      0      3      0      0      0
+       0      0      0      0      0]
+ [    17      0      0      1      0      0      3      0      0      0
+       0      0      0      0      0]
+ [    47      0      0      3      0      0    601      0      0      0
+       0      0      0      0      0]]
+(483501,) (483501,)
+9 0.9179257126665715
+(483537,) (483537,)
+10 0.9178594399187653
+(483558,) (483558,)
+11 0.9178195790370545
+(484209,) (484209,)
+12 0.9165876718524438
+(490005,) (490005,)
+13 0.8873460474893113
+(500298,) (500298,)
+14 0.6409979652127332
+[[216239      0     11     55     11    250     19      1    555 137345]
+ [     4   2339      1      1      0      0      0      0      0      3]
+ [     0      1    985      3      0      0      0      0      0     10]
+ [     1      0      0  34791      0      0      1      0      1  34408]
+ [     6      0      0      0   1541      0      0      0      0    107]
+ [    45      0      0      0      0   1192      0      0      0     18]
+ [    24      0      3     10      0      0   1364      0      0    106]
+ [    16      0      0      0      0      0      3  47728      7     50]
+ [     0      0      0      0      0      0      0      0   3264    971]
+ [  2441    491      0     80   1934      0    612      1      2  11247]]
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:493: SourceChangeWarning: source code of class 'torch.nn.modules.linear.Linear' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:493: SourceChangeWarning: source code of class 'torch.nn.modules.activation.Softplus' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/usr/local/lib/python3.5/dist-packages/torch/serialization.py:493: SourceChangeWarning: source code of class 'torch.nn.modules.activation.Sigmoid' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/ustc-1/.local/lib/python3.5/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.preprocessing.label module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.preprocessing. Anything that cannot be imported from sklearn.preprocessing is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/ustc-1/.local/lib/python3.5/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator LabelBinarizer from version 0.21.3 when using version 0.22.2.post1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+Traceback (most recent call last):
+  File "test.py", line 512, in <module>
+    main(sys.argv)                
+  File "test.py", line 371, in main
+    Stage2Train(train_loader,device,cuda_available,num_epoch=250) 
+  File "test.py", line 290, in Stage2Train
+    % (epoch + 1, num_epoch, loss.item(),A.item(),B.item()))
+NameError: name 'A' is not defined
