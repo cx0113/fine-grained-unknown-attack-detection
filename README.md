@@ -7,7 +7,7 @@ These folders are the code of the proposed Conditional Variational Auto-Encoder 
 This folder is the code of the baseline that use "Classification + anomaly detection". Random forest is used as the classification model. One-class SVM is used for anomaly detection.
 
 (3)ResultData:
-This folder is the code of the baseline EVM[2] and WSVM[1]. 
+This folder is the code of the baseline EVM[1] and WSVM[2]. 
 The code is obtained from "https://github.com/ljain2/libsvm-openset" and "https://github.com/EMRResearch/ExtremeValueMachine"
 
 
